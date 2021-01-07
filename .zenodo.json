@@ -1,0 +1,24 @@
+{
+	"title": "The title of the dataset",
+	"description": "Description of the dataset. Can be in english and german. You can use html tags as well to <b>bold</b> or </br> newline ",
+	"method": "The methodology employed for the study or research."
+	"creators": [{
+		"name": "Musterman, Erika",
+		"affiliation": "Robert Koch-Institut",
+		"orcid": "0000-0000-0000-0000"
+	}, {
+		"name": "Musterman, Max",
+		"affiliation": "Robert Koch-Institut"
+	}],
+	"keywords": [
+		"coronavirus",
+		"germany",
+		"covid-19",
+		"covid19",
+		"dataset"
+	],
+	"license": "CC-BY-3.0",
+	"language": "eng",
+	"upload_type": "dataset",
+	"access_right": "open"
+}
