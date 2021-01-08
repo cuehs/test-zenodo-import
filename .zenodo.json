@@ -1,24 +1,22 @@
 {
-	"title": "The title of the dataset",
-	"description": "Description of the dataset. Can be in english and german. You can use html tags as well to <b>bold</b> or </br> newline ",
+	"title": "Tagesdaten-CSV aus dem DIVI-Intensivregister",
+	"description": "Die Tagesdaten-CSV entspricht einem Auszug der Daten des DIVI-Intensivregisters. Die Datei enthält eine Aggregation der aktuellsten Meldungen pro Landkreis. Es werden die aktuell gemeldeten Anzahlen der COVID-19 Intensivfälle sowie die gemeldeten intensivmedizinischen Behandlungskapazitäten angezeigt. Die Tagesdaten-CSV liefert dabei ausschließlich einen Blick auf die Daten gemäß dem Stand des betrachteten Tages. Die Daten sind im situationsbedingten Kontext aufbereitet, damit sind verschiedene Tagesdaten-CSVs u.U. nicht direkt miteinander vergleichbar. Die aktuellsten Meldungen werden im gewählten Betrachtungszeitfenster über alle Meldebereiche und Standorte aufsummiert. Weitere Informationen sind zu finden unter https://www.intensivregister.de/#/faq",
 	"method": "The methodology employed for the study or research.",
 	"creators": [{
-		"name": "Musterman, Erika",
+		"name": "Intensivregister-Team am RKI",
 		"affiliation": "Robert Koch-Institut",
 		"orcid": "0000-0002-1825-0097"
-	}, {
-		"name": "Musterman, Max",
-		"affiliation": "Robert Koch-Institut"
 	}],
 	"keywords": [
 		"coronavirus",
 		"germany",
-		"covid-19",
-		"covid19",
-		"dataset"
+		"Intensivkapazität",
+		"Intensivregister",
+		"COVID-19 Fallzahlen",
+		"DIVI-Intensivregister"
 	],
 	"license": "CC-BY-3.0",
-	"language": "eng",
+	"language": "ger",
 	"upload_type": "dataset",
 	"access_right": "open"
 }
